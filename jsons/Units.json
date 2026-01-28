@@ -1,20 +1,5 @@
 [
 	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
-	},
-	{
 		"name": "Atomic Bomb",
 		"unitType": "Atomic Bomber",
 		"movement": 1,
@@ -41,5 +26,17 @@
 			"Blast radius [2]"],
 		"attackSound": "nuke"
 	},
-	
+	{
+		"name": "Hydrogen Bomb",
+		"unitType": "Atomic Bomber",
+		"movement": 1,
+		"strength": 500,
+		"rangedStrength": 500,
+		"range": 11,
+		"cost": 625,
+		"requiredTech": "Nuclear Fusion",
+		"promotions": ["Evasion"],
+		"uniques": ["Nuclear weapon of Strength [3]", "Only available <if [Manhattan Project] is constructed>", "Self-destructs when attacking", "Blast radius [3]"],
+		"attackSound": "nuke"
+	},
 ]
