@@ -39,4 +39,17 @@
 		"uniques": ["Nuclear weapon of Strength [3]", "Only available <if [Manhattan Project] is constructed>", "Self-destructs when attacking", "Blast radius [3]"],
 		"attackSound": "nuke"
 	},
+	{
+		"name": "AN602 'Tsar Bomba'",
+		"unitType": "Atomic Bomber",
+		"movement": 1,
+		"strength": 1000,
+		"rangedStrength": 1000,
+		"range": 17,
+		"cost": 875,
+		"requiredTech": "Nuclear Fusion",
+		"promotions": ["Evasion"],
+		"uniques": ["Nuclear weapon of Strength [7]", "Only available <if [Manhattan Project] is constructed>", "Self-destructs when attacking", "Blast radius [7]"],
+		"attackSound": "nuke"
+	},
 ]
