@@ -1,0 +1,17 @@
+[
+  {
+        "name": "Shiny green rock Worship",
+        "type": "Pantheon",
+        "uniques": ["[+25 Faith] from every [Uranium]"]
+  },
+  {
+        "name": "Uranium Fever",
+        "type": "Follower",
+        "uniques": ["[+10]% [Production] from every [Uranium]"]
+  },
+  {
+        "name": "Sun Spawner",
+        "type": "Enhancer",
+        "uniques": ["[+100]% Strength <for [Atomic Bomber] units>", "[+100]% Strength <for [Nuclear Missile] >"]
+  },
+]
