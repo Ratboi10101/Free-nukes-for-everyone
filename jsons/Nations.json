@@ -24,7 +24,7 @@
 
 		"favoredReligion": "Hinduism",
 		"uniqueName": "Population Growth",
-		"uniques": ["[+100]% unhappiness from the number of cities", "[-50]% Unhappiness from [Population] [in all cities]", "[-90]% maintenance costs <for [Atomic Bomber] units>", "[+5] Movement <for [Atomic Bomber] units>", "[+25] Movement <for [Missile] units>","[+25] Sight <for [Missile] units>"],
+		"uniques": ["[+100]% unhappiness from the number of cities", "[-50]% Unhappiness from [Population] [in all cities]", "[-90]% maintenance costs <for [Atomic Bomber] units>", "[+5] Range <for [Atomic Bomber] units>", "[+25] Range <for [Missile] units>","[+25] Sight <for [Missile] units>"],
 		"cities": ["Delhi","Mumbai","Vijayanagara","Pataliputra","Varanasi","Agra","Calcutta","Lahore","Bangalore","Hyderabad","Madurai","Ahmedabad",
 			"Kolhapur","Prayaga","Ayodhya","Indraprastha","Mathura","Ujjain","Gulbarga","Jaunpur","Rajagriha","Sravasti","Tiruchirapalli","Thanjavur",
 			"Bodhgaya","Kushinagar","Amaravati","Gaur","Gwalior","Jaipur","Karachi"],
