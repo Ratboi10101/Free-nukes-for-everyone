@@ -18,7 +18,7 @@ UnitIcons/Hydrogen Bomb
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/AN602 'Tsar Bomba'
+UnitIcons/Tsar Bomba
   rotate: false
   xy: 200, 0
   size: 100, 100
