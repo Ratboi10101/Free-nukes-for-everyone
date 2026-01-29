@@ -40,7 +40,7 @@
 		"attackSound": "nuke"
 	},
 	{
-		"name": "AN602 'Tsar Bomba'",
+		"name": "Tsar Bomba",
 		"unitType": "Atomic Bomber",
 		"movement": 1,
 		"strength": 1000,
