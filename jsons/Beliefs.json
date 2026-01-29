@@ -12,6 +12,6 @@
   {
         "name": "Sun Spawner",
         "type": "Enhancer",
-        "uniques": ["[+100]% Strength <for [Atomic Bomber] units>", "[+100]% Strength <for [Nuclear Missile] >"]
+        "uniques": ["[+100]% Strength <for [Atomic Bomber] units>", "[+100]% Strength <for [Missile] units>"]
   },
 ]
