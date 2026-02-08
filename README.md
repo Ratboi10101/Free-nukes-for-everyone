@@ -1,5 +1,6 @@
-# Unciv-mod-example
+# Free nukes for everyone
 
-An example mod for Unciv, that adds one new Civilization.
+All nukes are now Uranium-free and 50% off.
+This mod also adds 2 new nukes.
 
-For information on how to build and use mods, please refer to [the setup instructions](https://yairm210.github.io/Unciv/Modders/Making-a-new-Civilization/)
+
